@@ -1,0 +1,17 @@
+E:\~3rdSem\SQ&T\UnitTestDemo\A4ClassDemoUnitTestss\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\~3rdSem\SQ&T\UnitTestDemo\A4ClassDemoUnitTestss\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\~3rdSem\SQ&T\UnitTestDemo\A4ClassDemoUnitTestss\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\~3rdSem\SQ&T\UnitTestDemo\A4ClassDemoUnitTestss\bin\Debug\A4ClassDemoUnitTestss.dll
+E:\~3rdSem\SQ&T\UnitTestDemo\A4ClassDemoUnitTestss\bin\Debug\A4ClassDemoUnitTestss.pdb
+E:\~3rdSem\SQ&T\UnitTestDemo\A4ClassDemoUnitTestss\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\~3rdSem\SQ&T\UnitTestDemo\A4ClassDemoUnitTestss\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\~3rdSem\SQ&T\UnitTestDemo\A4ClassDemoUnitTestss\bin\Debug\UnitTestDemo.exe
+E:\~3rdSem\SQ&T\UnitTestDemo\A4ClassDemoUnitTestss\bin\Debug\UnitTestDemo.pdb
+E:\~3rdSem\SQ&T\UnitTestDemo\A4ClassDemoUnitTestss\bin\Debug\UnitTestDemo.exe.config
+E:\~3rdSem\SQ&T\UnitTestDemo\A4ClassDemoUnitTestss\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\~3rdSem\SQ&T\UnitTestDemo\A4ClassDemoUnitTestss\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\~3rdSem\SQ&T\UnitTestDemo\A4ClassDemoUnitTestss\obj\Debug\A4ClassDemoUnitTests.csproj.AssemblyReference.cache
+E:\~3rdSem\SQ&T\UnitTestDemo\A4ClassDemoUnitTestss\obj\Debug\A4ClassDemoUnitTests.csproj.CoreCompileInputs.cache
+E:\~3rdSem\SQ&T\UnitTestDemo\A4ClassDemoUnitTestss\obj\Debug\A4ClassDemoUnitTests.csproj.CopyComplete
+E:\~3rdSem\SQ&T\UnitTestDemo\A4ClassDemoUnitTestss\obj\Debug\A4ClassDemoUnitTestss.dll
+E:\~3rdSem\SQ&T\UnitTestDemo\A4ClassDemoUnitTestss\obj\Debug\A4ClassDemoUnitTestss.pdb

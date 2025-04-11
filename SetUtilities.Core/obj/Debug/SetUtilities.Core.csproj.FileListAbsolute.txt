@@ -1,0 +1,16 @@
+C:\Users\mlbla\OneDrive\Documents\Portfolio\unit-testing-projects\set-utilities-tests\UnitTestDemo\SetUtilities.Core\bin\Debug\UnitTestDemo.exe.config
+C:\Users\mlbla\OneDrive\Documents\Portfolio\unit-testing-projects\set-utilities-tests\UnitTestDemo\SetUtilities.Core\bin\Debug\UnitTestDemo.exe
+C:\Users\mlbla\OneDrive\Documents\Portfolio\unit-testing-projects\set-utilities-tests\UnitTestDemo\SetUtilities.Core\bin\Debug\UnitTestDemo.pdb
+C:\Users\mlbla\OneDrive\Documents\Portfolio\unit-testing-projects\set-utilities-tests\UnitTestDemo\SetUtilities.Core\obj\Debug\SetUtilities.Core.csproj.AssemblyReference.cache
+C:\Users\mlbla\OneDrive\Documents\Portfolio\unit-testing-projects\set-utilities-tests\UnitTestDemo\SetUtilities.Core\obj\Debug\SetUtilities.Core.csproj.SuggestedBindingRedirects.cache
+C:\Users\mlbla\OneDrive\Documents\Portfolio\unit-testing-projects\set-utilities-tests\UnitTestDemo\SetUtilities.Core\obj\Debug\SetUtilities.Core.csproj.CoreCompileInputs.cache
+C:\Users\mlbla\OneDrive\Documents\Portfolio\unit-testing-projects\set-utilities-tests\UnitTestDemo\SetUtilities.Core\obj\Debug\UnitTestDemo.exe
+C:\Users\mlbla\OneDrive\Documents\Portfolio\unit-testing-projects\set-utilities-tests\UnitTestDemo\SetUtilities.Core\obj\Debug\UnitTestDemo.pdb
+C:\Users\mlbla\OneDrive\Documents\Portfolio\unit-testing-projects\set-utilities-tests\SetUtilitiesProject\SetUtilities.Core\bin\Debug\SetUtilitiesProject.exe.config
+C:\Users\mlbla\OneDrive\Documents\Portfolio\unit-testing-projects\set-utilities-tests\SetUtilitiesProject\SetUtilities.Core\bin\Debug\SetUtilitiesProject.exe
+C:\Users\mlbla\OneDrive\Documents\Portfolio\unit-testing-projects\set-utilities-tests\SetUtilitiesProject\SetUtilities.Core\bin\Debug\SetUtilitiesProject.pdb
+C:\Users\mlbla\OneDrive\Documents\Portfolio\unit-testing-projects\set-utilities-tests\SetUtilitiesProject\SetUtilities.Core\obj\Debug\SetUtilities.Core.csproj.AssemblyReference.cache
+C:\Users\mlbla\OneDrive\Documents\Portfolio\unit-testing-projects\set-utilities-tests\SetUtilitiesProject\SetUtilities.Core\obj\Debug\SetUtilities.Core.csproj.SuggestedBindingRedirects.cache
+C:\Users\mlbla\OneDrive\Documents\Portfolio\unit-testing-projects\set-utilities-tests\SetUtilitiesProject\SetUtilities.Core\obj\Debug\SetUtilities.Core.csproj.CoreCompileInputs.cache
+C:\Users\mlbla\OneDrive\Documents\Portfolio\unit-testing-projects\set-utilities-tests\SetUtilitiesProject\SetUtilities.Core\obj\Debug\SetUtilitiesProject.exe
+C:\Users\mlbla\OneDrive\Documents\Portfolio\unit-testing-projects\set-utilities-tests\SetUtilitiesProject\SetUtilities.Core\obj\Debug\SetUtilitiesProject.pdb
