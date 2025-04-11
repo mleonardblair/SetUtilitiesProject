@@ -1,4 +1,3 @@
-# SetUtilitiesProject
 # Array Utilities – Unit Testing & Debugging in C#
 
 ## 📚 Project Overview
@@ -43,5 +42,18 @@ Discovered bugs include:
 
 Each bug is documented at the top of the unit test file with test cases and suggested fixes.
 
-## 📂 Project Structure
+## 🧪 How to Run the Tests
+
+1. Open `ArrayUtilitiesTesting.sln` in Visual Studio.
+2. Build the solution to restore dependencies.
+3. Open the Test Explorer (Test > Test Explorer).
+4. Click "Run All Tests" to execute the full test suite.
+
+## 🚀 Author
+
+Developed by: **M. Leonard Blair**  
+GitHub: https://github.com/mleonardblair
+
+> This repository is for educational and portfolio demonstration purposes only.
+> The source code and tests were independently written for practice and skills development.
 
