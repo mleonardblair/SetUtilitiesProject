@@ -1,7 +1,0 @@
-E:\~3rdSem\SQ&T\UnitTestDemo\UnitTestDemo\bin\Debug\UnitTestDemo.exe.config
-E:\~3rdSem\SQ&T\UnitTestDemo\UnitTestDemo\bin\Debug\UnitTestDemo.exe
-E:\~3rdSem\SQ&T\UnitTestDemo\UnitTestDemo\bin\Debug\UnitTestDemo.pdb
-E:\~3rdSem\SQ&T\UnitTestDemo\UnitTestDemo\obj\Debug\UnitTestDemo.csproj.AssemblyReference.cache
-E:\~3rdSem\SQ&T\UnitTestDemo\UnitTestDemo\obj\Debug\UnitTestDemo.csproj.CoreCompileInputs.cache
-E:\~3rdSem\SQ&T\UnitTestDemo\UnitTestDemo\obj\Debug\UnitTestDemo.exe
-E:\~3rdSem\SQ&T\UnitTestDemo\UnitTestDemo\obj\Debug\UnitTestDemo.pdb

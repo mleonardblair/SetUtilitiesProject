@@ -27,13 +27,13 @@
         TestMethods: TestCreateSet_SetSizeDesiredLessThanTwo()
         SuggestedFix: Line 18,29  
  */
-using SetUtilitiesProject;
+using SetUtilities.Core;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace SetUtilitiesProject
+namespace SetUtilities.Tests
 {
     [TestClass]
     public class UnitTests

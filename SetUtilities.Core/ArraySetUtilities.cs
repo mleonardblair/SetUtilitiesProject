@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace SetUtilitiesProject
+namespace SetUtilities.Core
 {
     /// <summary>
     /// A set of Utiltities that will Set-based operations on List<int> datasets
